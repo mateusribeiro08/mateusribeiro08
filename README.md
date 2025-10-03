@@ -70,7 +70,11 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mateusribeiro08.mateusribeiro08&"  />
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/mateusribeiro08/mateusribeiro08/output/snake.svg" alt="Snake animation" />
 
